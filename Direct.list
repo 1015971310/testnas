@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,palu.testnas.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
