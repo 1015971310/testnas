@@ -11,11 +11,14 @@ DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,binancecnt.com
 DOMAIN-SUFFIX,palu.testnas.com
+DOMAIN-SUFFIX,kuaishouzt.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,testnas
+DOMAIN-KEYWORD,kuaishou
+DOMAIN-KEYWORD,douyin
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
